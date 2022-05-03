@@ -1,39 +1,38 @@
 {
     "seeds": [
         {
-            "reference": "Matthew 4:4",
             "paragraphs": [
                 {
                     "paragraph": "Man does not live on bread alone, but on every word that goes out through the mouth of GOD."
                 }
-            ]
+            ],
+            "reference": "Matthew 4:4"
         },
         {
-            "reference": "Matthew 4:7",
             "paragraphs": [
                 {
                     "paragraph": "Do not test the LORD, your GOD."
                 }
-            ]
+            ],
+            "reference": "Matthew 4:7"
         },
         {
-            "reference": "Matthew 4:10",
             "paragraphs": [
                 {
                     "paragraph": "Worship the LORD your GOD, and He alone shall you serve."
                 }
-            ]
+            ],
+            "reference": "Matthew 4:10"
         },
         {
-            "reference": "Matthew 4:17",
             "paragraphs": [
                 {
                     "paragraph": "Repent, for the Kingdom of Heaven has come near."
                 }
-            ]
+            ],
+            "reference": "Matthew 4:17"
         },
         {
-            "reference": "Matthew 5:3-12",
             "paragraphs": [
                 {
                     "paragraph": "Blessed are the poor in spirit, for theirs is the Kingdom of Heaven."
@@ -62,10 +61,10 @@
                 {
                     "paragraph": "Blessed are you when they insult you and persecute you and say all kinds of evil against you falsely because of me. Be glad, and rejoice greatly, for your reward is great in heaven. For so they persecuted the prophets who were before you."
                 }
-            ]
+            ],
+            "reference": "Matthew 5:3-12"
         },
         {
-            "reference": "Matthew 5:13",
             "paragraphs": [
                 {
                     "paragraph": "You are the salt of the earth."
@@ -73,10 +72,10 @@
                 {
                     "paragraph": "But if the salt loses its taste, what can make it salty again? It is not useful anymore, except to be thrown outside and be trampled by the people."
                 }
-            ]
+            ],
+            "reference": "Matthew 5:13"
         },
         {
-            "reference": "Matthew 5:14-16",
             "paragraphs": [
                 {
                     "paragraph": "You are the light of the world."
@@ -87,10 +86,10 @@
                 {
                     "paragraph": "So let your light shine before the people so that they may see your good works, and glorify your Father who is in heaven."
                 }
-            ]
+            ],
+            "reference": "Matthew 5:14-16"
         },
         {
-            "reference": "Matthew 5:17-20",
             "paragraphs": [
                 {
                     "paragraph": "Do not think that I came to destroy the Law or the Prophets. I came not to destroy, but to fulfill."
@@ -104,10 +103,10 @@
                 {
                     "paragraph": "For I tell you that if your righteousness does not exceed more than the scribes and Pharisees, you will never enter into the Kingdom of Heaven."
                 }
-            ]
+            ],
+            "reference": "Matthew 5:17-20"
         },
         {
-            "reference": "Matthew 5:21",
             "paragraphs": [
                 {
                     "paragraph": "You heard that it was said to those of old, \"Do not kill. And whoever kills is liable to judgment.\""
@@ -124,10 +123,10 @@
                 {
                     "paragraph": "Therefore, if you are offering your gift on the altar and there you remember that your brother has something against you, leave your gift in front of the altar and go. First, be reconciled to your brother, and then come, offer your gift."
                 }
-            ]
+            ],
+            "reference": "Matthew 5:21"
         },
         {
-            "reference": "Matthew 5:25",
             "paragraphs": [
                 {
                     "paragraph": "Be in agreement with your accuser quickly till you are with him on the way, lest the accuser hand you over to the judge, and the judge to the officer, and you will be thrown into prison."
@@ -135,7 +134,8 @@
                 {
                     "paragraph": "Truly, I say to you, you will never get out of there until you pay the last cent."
                 }
-            ]
+            ],
+            "reference": "Matthew 5:25"
         }
     ]
 }
