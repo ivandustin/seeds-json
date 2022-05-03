@@ -1,6 +1,6 @@
 # Seeds JSON
 
-[Seeds](/ivandustin/seeds) in JSON format for your projects.
+[Seeds](https://github.com/ivandustin/seeds) in JSON format for your projects.
 
 See [seeds.json](seeds.json).
 
