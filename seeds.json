@@ -109,7 +109,7 @@
         {
             "paragraphs": [
                 {
-                    "paragraph": "You heard that it was said to those of old, \"Do not kill. And whoever kills is liable to judgment.\""
+                    "paragraph": "You heard that it was said to the ancients, \"Do not kill. And whoever kills is liable to judgment.\""
                 },
                 {
                     "paragraph": "But I say to you that all who are angry with his brother are liable to judgment."
@@ -124,7 +124,7 @@
                     "paragraph": "Therefore, if you are offering your gift on the altar and there you remember that your brother has something against you, leave your gift in front of the altar and go. First, be reconciled to your brother, and then come, offer your gift."
                 }
             ],
-            "reference": "Matthew 5:21"
+            "reference": "Matthew 5:21-24"
         },
         {
             "paragraphs": [
@@ -136,6 +136,124 @@
                 }
             ],
             "reference": "Matthew 5:25"
+        },
+        {
+            "paragraphs": [
+                {
+                    "paragraph": "You heard that it was said, \"You shall not commit adultery.\""
+                },
+                {
+                    "paragraph": "But I say to you that all who looks at a woman to lust at her has already committed adultery on her in his heart."
+                },
+                {
+                    "paragraph": "Now if your right eye is causing you to sin, take it out, and throw it away from you; for it is profitable for you that one of the parts of your body be destroyed, and not your whole body be thrown into hell."
+                },
+                {
+                    "paragraph": "And if your right hand is causing you to sin, cut it off, and throw it away from you; for it is profitable for you that one of the parts of your body be destroyed, and not your whole body go into hell."
+                },
+                {
+                    "paragraph": "And it was said, \"Whoever divorces his wife, let him give her a certificate of divorce.\""
+                },
+                {
+                    "paragraph": "But I say to you that all who divorces his wife, except for the reason of fornication, is making her commit adultery."
+                },
+                {
+                    "paragraph": "And whoever marries a divorced woman commits adultery."
+                }
+            ],
+            "reference": "Matthew 5:27-32"
+        },
+        {
+            "paragraphs": [
+                {
+                    "paragraph": "Again you heard that it was said to the ancients, \"You shall not swear falsely, but you shall give back to the LORD your oaths.\""
+                },
+                {
+                    "paragraph": "But I say to you, do not swear at all. Neither by heaven, because it is the throne of GOD. Nor by the earth, because it is His footstool. Nor into Jerusalem, because it is the city of the great King. Nor should you swear by your head, because you are not able to make one hair white or black."
+                },
+                {
+                    "paragraph": "But let your word be, if yes, then yes. If no, then no. And beyond these is from evil."
+                }
+            ],
+            "reference": "Matthew 5:33-37"
+        },
+        {
+            "paragraphs": [
+                {
+                    "paragraph": "You heard that it was said, \"Eye for an eye and tooth for a tooth.\""
+                },
+                {
+                    "paragraph": "But I say to you, do not resist the evil one."
+                },
+                {
+                    "paragraph": "But whoever slaps you on your right cheek, turn to him also the other one."
+                },
+                {
+                    "paragraph": "And to the one who wants you to be judged and take your tunic, send away to him also the cloak."
+                },
+                {
+                    "paragraph": "And whoever will compel you one mile, go with him two."
+                },
+                {
+                    "paragraph": "To the one who asks you, give."
+                },
+                {
+                    "paragraph": "And to the one who wants to borrow from you, do not turn away."
+                }
+            ],
+            "reference": "Matthew 5:38-42"
+        },
+        {
+            "paragraphs": [
+                {
+                    "paragraph": "You heard that it was said, \"Love your neighbor, and hate your enemy.\""
+                },
+                {
+                    "paragraph": "But I say to you, love your enemies."
+                },
+                {
+                    "paragraph": "Bless those who curse you."
+                },
+                {
+                    "paragraph": "Do good to those who hate you."
+                },
+                {
+                    "paragraph": "And pray for the sake of those who revile and persecute you."
+                },
+                {
+                    "paragraph": "So that you may become sons of your Father, who is in Heaven."
+                },
+                {
+                    "paragraph": "Because He causes His sun to rise upon the evil and the good, and sends rain upon the righteous and the unjust."
+                },
+                {
+                    "paragraph": "For if you love those who love you, what reward do you have? Does not also the tax collectors do the same?"
+                },
+                {
+                    "paragraph": "And if you greet your brothers, only, what more are you doing? Does not also the Gentiles do the same?"
+                },
+                {
+                    "paragraph": "Therefore, be perfect, as your Father in Heaven is perfect."
+                }
+            ],
+            "reference": "Matthew 5:43-48"
+        },
+        {
+            "paragraphs": [
+                {
+                    "paragraph": "I am the way, and the truth, and the life."
+                },
+                {
+                    "paragraph": "No one comes to the Father except through me."
+                },
+                {
+                    "paragraph": "If you had known me, you would have known my Father also."
+                },
+                {
+                    "paragraph": "From now on you know Him and have seen Him."
+                }
+            ],
+            "reference": "John 14:6-7"
         }
     ]
 }
