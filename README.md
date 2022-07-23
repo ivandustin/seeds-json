@@ -4,6 +4,8 @@
 
 See [seeds.json](seeds.json).
 
+Converted using [seeds2json](https://github.com/ivandustin/seeds2json).
+
 ## CDN
 
 Include in your projects using this URL:
